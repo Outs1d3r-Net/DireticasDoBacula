@@ -132,10 +132,10 @@ FileSet {
 ```
 
 
->Schedule  
+## Schedule  
 
-Este recurso é usado para definir quando um trabalho deve ser executado automaticamente pelo agendador interno do Bacula.  
-Você pode ter qualquer número de agendas, mas cada Job fará referência apenas a uma.  
+>Este recurso é usado para definir quando um trabalho deve ser executado automaticamente pelo agendador interno do Bacula.  
+>Você pode ter qualquer número de agendas, mas cada Job fará referência apenas a uma.  
 
 ```
 Schedule {
