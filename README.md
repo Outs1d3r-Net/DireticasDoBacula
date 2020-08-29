@@ -1,9 +1,9 @@
 # Introdução  
 ![Banner](https://blog.bacula.org/wp-content/uploads/2018/10/logo_bacula11.png)  
 ###### Dou todos os creditos dessa documentação há [Famatec](https://github.com/fametec/bacula)  
-### Bacula é um software de backup, ele é uma solução de DR (Disaster Recovery) multi plataforma  
-### ele tambem é o 3° software de backup mais utilizado no mundo sendo o 1º o Amanda.  
-### A documentação oficial do software pode ser obtida em: [Bacula Documentation](https://www.bacula.org/documentation/documentation/ "Clique aqui para ler a documentação")
+#### Bacula é um software de backup, ele é uma solução de DR (Disaster Recovery) multi plataforma.  
+#### Ele tambem é o 3° software de backup mais utilizado no mundo sendo o 1º o Amanda.  
+#### A documentação oficial do software pode ser obtida em: [Bacula Documentation](https://www.bacula.org/documentation/documentation/ "Clique aqui para ler a documentação")
 
 
 
